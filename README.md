@@ -1,2 +1,4 @@
-# .github
-Public README.md for sipbs-compbiol
+# `sipbs-compbiol`
+
+Hi there! 👋
+
