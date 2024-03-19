@@ -23,7 +23,7 @@ This GitHub organisation hosts software and teaching material written by group m
 
 | Name              | Summary                                           | Publication | Repository | Webpage |
 | :---------------- | :------------------------------------------------ | :---------- | :--------- | :------ |
-| `cazy_webscraper` | make a local, extensible, version of CAZy         |             |            |         |
+| `cazy_webscraper` | make a local, extensible, version of CAZy         |  [doi:10.1099/mgen.0.001086](https://doi.org/10.1099/mgen.0.001086)  |  [HobnobMancer/cazy_webscraper](https://github.com/HobnobMancer/cazy_webscraper)          | [webpage](https://hobnobmancer.github.io/cazy_webscraper/)  |
 | `ncfp`            | download coding sequences and backthread proteins | n/a         |            |         |
 | `pyani`           | Average Nucleotide Identity of microbial genomes  |             |            |         |
 
