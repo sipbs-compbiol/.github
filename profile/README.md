@@ -31,7 +31,7 @@ This GitHub organisation hosts software and teaching material written by group m
 
 | Module | Topic                                               | Repository                                                                  | Webpage                                                                                 |
 | :----- | :-------------------------------------------------- | :-------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- |
-| BM211  | Workshop 1: Microbial Ecology                       | [[repo]](https://github.com/sipbs-compbiol/template_bioinformatics_project) | [[webpage]](https://sipbs-compbiol.github.io/BM211-workshops/)                          |
+| BM211  | Workshop 1: Microbial Ecology                       | [[repo]](https://github.com/sipbs-compbiol/BM211-Workshop-1)                | [[webpage]](https://sipbs-compbiol.github.io/BM211-Workshop-1/)                         |
 | BM211  | Workshop 5: Phylogenetic Trees                      | [[repo]](https://github.com/sipbs-compbiol/BM211-Workshop-5)                | [[webpage]](https://sipbs-compbiol.github.io/BM211-Workshop-5/)                         |
 | BM214  | Workshop 2: Sequence Searching                      | [[repo]](https://github.com/sipbs-compbiol/BM214-Workshop-2)                | [[webpage]](https://sipbs-compbiol.github.io/BM214-Workshop-2/)                         |
 | BM214  | Workshop 3: Data Interpretation                     | [[repo]](https://github.com/sipbs-compbiol/BM214-Workshop-3)                | [[webpage]](https://sipbs-compbiol.github.io/BM214-Workshop-3/)                         |
