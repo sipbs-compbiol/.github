@@ -24,8 +24,8 @@ This GitHub organisation hosts software and teaching material written by group m
 | Name              | Summary                                           | Publication | Repository | Webpage |
 | :---------------- | :------------------------------------------------ | :---------- | :--------- | :------ |
 | `cazy_webscraper` | make a local, extensible, version of CAZy         |  [doi:10.1099/mgen.0.001086](https://doi.org/10.1099/mgen.0.001086)  |  [HobnobMancer/cazy_webscraper](https://github.com/HobnobMancer/cazy_webscraper)          | [webpage](https://hobnobmancer.github.io/cazy_webscraper/)  |
-| `ncfp`            | download coding sequences and backthread proteins | n/a         |            |         |
-| `pyani`           | Average Nucleotide Identity of microbial genomes  |             |            |         |
+| `ncfp`            | download coding sequences and backthread proteins | n/a         |   [widdowquinn/ncfp](https://github.com/widdowquinn/ncfp)         |  [webpage](https://widdowquinn.github.io/ncfp/)       |
+| `pyani`           | Average Nucleotide Identity of microbial genomes  |  [doi:10.1039/C5AY02550H](https://doi.org/10.1039/C5AY02550H)           |   [widdowquinn/pyani](https://github.com/widdowquinn/pyani)         |  [webpage](https://widdowquinn.github.io/pyani/)       |
 
 ### Current Teaching
 
