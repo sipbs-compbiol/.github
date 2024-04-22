@@ -40,6 +40,11 @@ This GitHub organisation hosts software and teaching material written by group m
 | BM432  | Data Visualisation Workshop                         | [[repo]](https://github.com/sipbs-compbiol/bm432-datavis_workshop)          | [[webpage]](https://sipbs-compbiol.github.io/bm432-datavis_workshop/bm432-datavis.html) |
 | BM425  | Microbial Genomics Workshop                         |                                                                             |                                                                                         |
 
+### Supplementary Information
+
+| Publication | Title | Repository | Webpage |
+| :-- | :-- | :-- | :-- |
+| Kiepas _et al._ (2024) [submitted] | 16S rRNA phylogeny and clustering is not a reliable proxy for genome-based taxonomy in _Streptomyces_ | [[repo]](https://github.com/sipbs-compbiol/Kiepas_et_al_2024_16S | [[webpage]](https://sipbs-compbiol.github.io/Kiepas_et_al_2024_16S) |
 
 ### Pages for Students
 
