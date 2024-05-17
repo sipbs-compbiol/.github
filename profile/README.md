@@ -21,24 +21,24 @@ This GitHub organisation hosts software and teaching material written by group m
 
 ### Software
 
-| Name              | Summary                                           | Publication | Repository | Webpage |
-| :---------------- | :------------------------------------------------ | :---------- | :--------- | :------ |
-| `cazy_webscraper` | make a local, extensible, version of CAZy         |  [doi:10.1099/mgen.0.001086](https://doi.org/10.1099/mgen.0.001086)  |  [HobnobMancer/cazy_webscraper](https://github.com/HobnobMancer/cazy_webscraper)          | [webpage](https://hobnobmancer.github.io/cazy_webscraper/)  |
-| `ncfp`            | download coding sequences and backthread proteins | n/a         |   [widdowquinn/ncfp](https://github.com/widdowquinn/ncfp)         |  [webpage](https://widdowquinn.github.io/ncfp/)       |
-| `pyani`           | Average Nucleotide Identity of microbial genomes  |  [doi:10.1039/C5AY02550H](https://doi.org/10.1039/C5AY02550H)           |   [widdowquinn/pyani](https://github.com/widdowquinn/pyani)         |  [webpage](https://widdowquinn.github.io/pyani/)       |
+| Name              | Summary                                           | Publication                                                        | Repository                                                                      | Webpage                                                    |
+| :---------------- | :------------------------------------------------ | :----------------------------------------------------------------- | :------------------------------------------------------------------------------ | :--------------------------------------------------------- |
+| `cazy_webscraper` | make a local, extensible, version of CAZy         | [doi:10.1099/mgen.0.001086](https://doi.org/10.1099/mgen.0.001086) | [HobnobMancer/cazy_webscraper](https://github.com/HobnobMancer/cazy_webscraper) | [webpage](https://hobnobmancer.github.io/cazy_webscraper/) |
+| `ncfp`            | download coding sequences and backthread proteins | n/a                                                                | [widdowquinn/ncfp](https://github.com/widdowquinn/ncfp)                         | [webpage](https://widdowquinn.github.io/ncfp/)             |
+| `pyani`           | Average Nucleotide Identity of microbial genomes  | [doi:10.1039/C5AY02550H](https://doi.org/10.1039/C5AY02550H)       | [widdowquinn/pyani](https://github.com/widdowquinn/pyani)                       | [webpage](https://widdowquinn.github.io/pyani/)            |
 
 ### Current Teaching
 
-| Module | Topic                                               | Repository                                                                  | Webpage                                                                                 |
-| :----- | :-------------------------------------------------- | :-------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- |
-| BM211  | Workshop 1: Microbial Ecology                       | [[repo]](https://github.com/sipbs-compbiol/BM211-Workshop-1)                | [[webpage]](https://sipbs-compbiol.github.io/BM211-Workshop-1/)                         |
-| BM211  | Workshop 5: Phylogenetic Trees                      | [[repo]](https://github.com/sipbs-compbiol/BM211-Workshop-5)                | [[webpage]](https://sipbs-compbiol.github.io/BM211-Workshop-5/)                         |
-| BM214  | Workshop 2: Sequence Searching                      | [[repo]](https://github.com/sipbs-compbiol/BM214-Workshop-2)                | [[webpage]](https://sipbs-compbiol.github.io/BM214-Workshop-2/)                         |
-| BM214  | Workshop 3: Data Interpretation                     | [[repo]](https://github.com/sipbs-compbiol/BM214-Workshop-3)                | [[webpage]](https://sipbs-compbiol.github.io/BM214-Workshop-3/)                         |
-| BM329  | Block A Workshop: Microbial Identification          | [[repo]](https://github.com/sipbs-compbiol/BM329_Block_A_workshop)          | [[webpage]](https://sipbs-compbiol.github.io/BM329_Block_A_workshop/)                   |
-| BM329  | Block B Workshop: Diseases of the Respiratory Tract | [[repo]](https://github.com/sipbs-compbiol/BM329_Block_B_Workshop)          | [[webpage]](https://sipbs-compbiol.github.io/BM329_Block_B_Workshop/)                   |
-| BM432  | Data Visualisation Workshop                         | [[repo]](https://github.com/sipbs-compbiol/bm432-datavis_workshop)          | [[webpage]](https://sipbs-compbiol.github.io/bm432-datavis_workshop/bm432-datavis.html) |
-| BM425  | Microbial Genomics Workshop                         |                                                                             |                                                                                         |
+| Module | Topic                                               | Repository                                                         | Webpage                                                                                 |
+| :----- | :-------------------------------------------------- | :----------------------------------------------------------------- | :-------------------------------------------------------------------------------------- |
+| BM211  | Workshop 1: Microbial Ecology                       | [[repo]](https://github.com/sipbs-compbiol/BM211-Workshop-1)       | [[webpage]](https://sipbs-compbiol.github.io/BM211-Workshop-1/)                         |
+| BM211  | Workshop 5: Phylogenetic Trees                      | [[repo]](https://github.com/sipbs-compbiol/BM211-Workshop-5)       | [[webpage]](https://sipbs-compbiol.github.io/BM211-Workshop-5/)                         |
+| BM214  | Workshop 2: Sequence Searching                      | [[repo]](https://github.com/sipbs-compbiol/BM214-Workshop-2)       | [[webpage]](https://sipbs-compbiol.github.io/BM214-Workshop-2/)                         |
+| BM214  | Workshop 3: Data Interpretation                     | [[repo]](https://github.com/sipbs-compbiol/BM214-Workshop-3)       | [[webpage]](https://sipbs-compbiol.github.io/BM214-Workshop-3/)                         |
+| BM329  | Block A Workshop: Microbial Identification          | [[repo]](https://github.com/sipbs-compbiol/BM329_Block_A_workshop) | [[webpage]](https://sipbs-compbiol.github.io/BM329_Block_A_workshop/)                   |
+| BM329  | Block B Workshop: Diseases of the Respiratory Tract | [[repo]](https://github.com/sipbs-compbiol/BM329_Block_B_Workshop) | [[webpage]](https://sipbs-compbiol.github.io/BM329_Block_B_Workshop/)                   |
+| BM432  | Data Visualisation Workshop                         | [[repo]](https://github.com/sipbs-compbiol/bm432-datavis_workshop) | [[webpage]](https://sipbs-compbiol.github.io/bm432-datavis_workshop/bm432-datavis.html) |
+| BM425  | Microbial Genomics Workshop                         |                                                                    |                                                                                         |
 
 ### Supplementary Information
 
@@ -52,6 +52,7 @@ This GitHub organisation hosts software and teaching material written by group m
 | :------------------------------------------ | :-------------------------------------------------------------------------- | :----------------------------------------------------------------------------- |
 | BM432 UG Final Year Project Guidance        | [[repo]](https://github.com/sipbs-compbiol/bm432-project)                   | [[webpage]](https://sipbs-compbiol.github.io/bm432-project/)                   |
 | BM432 UG Final Year Project GitHub Template | [[repo]](https://github.com/sipbs-compbiol/template_bioinformatics_project) | [[webpage]](https://sipbs-compbiol.github.io/template_bioinformatics_project/) |
+| BM954 MSc Project Guidance                  | [[repo]](https://github.com/sipbs-compbiol/BM954-Project)                   | [[webpage]](https://sipbs-compbiol.github.io/BM954-Project/)                   |
 | PDA Student Guidance                        | [[repo]](https://github.com/sipbs-compbiol/sipbscompbiol-pda)               | [[webpage]](https://sipbs-compbiol.github.io/sipbscompbiol-pda/)               |
 | SIPBS Internships                           | [[repo]](https://github.com/sipbs-compbiol/sipbs-internships)               | [[webpage]](https://sipbs-compbiol.github.io/sipbs-internships)                |
 
