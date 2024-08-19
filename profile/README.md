@@ -38,7 +38,7 @@ This GitHub organisation hosts software and teaching material written by group m
 | BM329  | Block A Workshop: Microbial Identification          | [[repo]](https://github.com/sipbs-compbiol/BM329_Block_A_workshop) | [[webpage]](https://sipbs-compbiol.github.io/BM329_Block_A_workshop/)                   |
 | BM329  | Block B Workshop: Diseases of the Respiratory Tract | [[repo]](https://github.com/sipbs-compbiol/BM329_Block_B_Workshop) | [[webpage]](https://sipbs-compbiol.github.io/BM329_Block_B_Workshop/)                   |
 | BM432  | Data Visualisation Workshop                         | [[repo]](https://github.com/sipbs-compbiol/bm432-datavis_workshop) | [[webpage]](https://sipbs-compbiol.github.io/bm432-datavis_workshop/bm432-datavis.html) |
-| BM425  | Microbial Genomics Workshop 1: SARS-CoV-2 Genome Analysis                        |      [[repo]](https://github.com/sipbs-compbiol/BM425-Workshop-1)                                                              |    [[webpage]](https://sipbs-compbiol.github.io/BM425-Workshop-1/)                                                                                     |
+| BM425  | Workshop 1: SARS-CoV-2 Genome Analysis                        |      [[repo]](https://github.com/sipbs-compbiol/BM425-Workshop-1)                                                              |    [[webpage]](https://sipbs-compbiol.github.io/BM425-Workshop-1/)                                                                                     |
 
 ### Supplementary Information
 
