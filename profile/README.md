@@ -43,6 +43,8 @@ This GitHub organisation hosts software and teaching material written by group m
 | BM425  | Workshop 1: SARS-CoV-2 Genome Analysis                        |      [[repo]](https://github.com/sipbs-compbiol/BM425-Workshop-1)                                                              |    [[webpage]](https://sipbs-compbiol.github.io/BM425-Workshop-1/)                                                                                     |
 | BM425  | Workshop 2:                         |      [[repo]](https://github.com/sipbs-compbiol/BM425-Workshop-2)                                                              |    [[webpage]](https://sipbs-compbiol.github.io/BM425-Workshop-2/)                                                                                     |
 | MP968  | Experimental Design Workshop                        | [[repo]](https://github.com/sipbs-compbiol/MP968-Workshop_Experimental_Design) | [[webpage]](https://sipbs-compbiol.github.io/MP968-Workshop_Experimental_Design/) |
+| MP968  | Experimental Design Workshop Slides                 | [[repo]](https://github.com/sipbs-compbiol/MP968-Workshop_Experimental_Design_Slides) | [[webpage]](https://sipbs-compbiol.github.io/MP968-Workshop_Experimental_Design_Slides/) |
+
 
 ### Supplementary Information
 
