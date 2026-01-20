@@ -70,6 +70,7 @@ This GitHub organisation hosts software and teaching material written by group m
 | MP429  | Introduction to Statistics        | [[repo]](https://github.com/sipbs-compbiol/MP429)                         | [[webpage]](https://sipbs-compbiol.github.io/MP429/)                         |
 | CPD    | Carpentries for IBioIC 2021-05-04 | [[repo]](https://github.com/sipbs-compbiol/2021-05-04-strathclyde-online) | [[webpage]](https://sipbs-compbiol.github.io/2021-05-04-strathclyde-online/) |
 | CPD    | Carpentries for IBioIC 2021-05-11 | [[repo]](https://github.com/sipbs-compbiol/2021-05-11-strathclyde-online) | [[webpage]](https://github.com/sipbs-compbiol/2021-05-11-strathclyde-online) |
+| CPD    | Carpentries for IBioIC 2025-11-04 | [[repo]](https://github.com/sipbs-compbiol/2025-11-04-strathclyde)        | [[webpage]](https://github.com/sipbs-compbiol/2025-11-04-strathclyde)        |
 
 ------------
 
