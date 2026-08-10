@@ -32,7 +32,7 @@ This GitHub organisation hosts software and teaching material written by group m
 
 | Module | Topic                                               | Repository                                                         | Webpage                                                                                 |
 | :----- | :-------------------------------------------------- | :----------------------------------------------------------------- | :-------------------------------------------------------------------------------------- |
-| BM110  | Laboratory: Microbiology                            | [[repo]](https://github.com/sipbs-compbiol/BM110-Microbiology-Lab) | [[webpage]](https://sipbs-compbiol.github.io/BM110-Microbiology-Lab/)                   |
+| BM110  | Microbiology Lab Statistics Support                 | [[repo]](https://github.com/sipbs-compbiol/BM110-Microbiology-Lab) | [[webpage]](https://sipbs-compbiol.github.io/BM110-Microbiology-Lab/)                   |
 | BM211  | Workshop 1: Microbial Ecology                       | [[repo]](https://github.com/sipbs-compbiol/BM211-Workshop-1)       | [[webpage]](https://sipbs-compbiol.github.io/BM211-Workshop-1/)                         |
 | BM211  | Workshop 5: Phylogenetic Trees                      | [[repo]](https://github.com/sipbs-compbiol/BM211-Workshop-5)       | [[webpage]](https://sipbs-compbiol.github.io/BM211-Workshop-5/)                         |
 | BM214  | Workshop 2: Sequence Searching                      | [[repo]](https://github.com/sipbs-compbiol/BM214-Workshop-2)       | [[webpage]](https://sipbs-compbiol.github.io/BM214-Workshop-2/)                         |
