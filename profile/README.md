@@ -50,8 +50,8 @@ This GitHub organisation hosts software and teaching material written by group m
 
 | Publication | Title | Repository | Webpage |
 | :-- | :-- | :-- | :-- |
-| Kiepas _et al._ (2024) _Microbial genomics_ [doi:10.1099/mgen.0.001287](https://doi.org/10.1099/mgen.0.001287) | A bacterial Rhesus transporter retunes a structurally conserved ammonium pore into a reversible nitrogen valve | [[repo]](https://github.com/sipbs-compbiol/Kiepas_et_al_2024_16S) | [[webpage]](https://sipbs-compbiol.github.io/Kiepas_et_al_2024_16S) |
-| Bizior _et al._ (2026) (submitted) | 16S rRNA phylogeny and clustering is not a reliable proxy for genome-based taxonomy in _Streptomyces_ | [[repo]](https://github.com/sipbs-compbiol/SI_Bizior_et_al_2026_Amt) | [[webpage]](https://sipbs-compbiol.github.io/SI_Bizior_et_al_2026_Amt/) |
+| Kiepas _et al._ (2024) _Microbial genomics_ [doi:10.1099/mgen.0.001287](https://doi.org/10.1099/mgen.0.001287) | 16S rRNA phylogeny and clustering is not a reliable proxy for genome-based taxonomy in _Streptomyces_ | [[repo]](https://github.com/sipbs-compbiol/Kiepas_et_al_2024_16S) | [[webpage]](https://sipbs-compbiol.github.io/Kiepas_et_al_2024_16S) |
+| Bizior _et al._ (2026) (submitted) | A bacterial Rhesus transporter retunes a structurally conserved ammonium pore into a reversible nitrogen valve | [[repo]](https://github.com/sipbs-compbiol/SI_Bizior_et_al_2026_Amt) | [[webpage]](https://sipbs-compbiol.github.io/SI_Bizior_et_al_2026_Amt/) |
 
 ### Pages for Students
 
